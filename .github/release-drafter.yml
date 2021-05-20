@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: nice-jenkins-$NEXT_MINOR_VERSION
